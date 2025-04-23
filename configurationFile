@@ -91,4 +91,4 @@ cfg.dataFormat = '.nii';
 %% Extract TSV file:
 % Description: Import TSV files for the specified folder.
 
-cfg.importTSV = true;
+cfg.importTSV = false;
