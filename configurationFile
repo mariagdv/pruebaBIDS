@@ -77,11 +77,6 @@ dcm{5}.dataType = 'anat';
 dcm{5}.modality = 'T1w';
 dcm{5}.run = 0;
 
-dcm{10}.folder = [rawDICOM 'gre_field_mapping_2.5mm*'];
-dcm{10}.dataType = 'fmap';
-dcm{10}.modality = 'fieldmap';
-dcm{10}.run = 0;
-
 
 %% Data format:
 % Description: There are several data formats that can be selected in the 
